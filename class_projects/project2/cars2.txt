@@ -1,0 +1,9 @@
+Tescray,Roadster,1798,213443
+BMW,Malibut,2110,342129
+Ford,F150,2012,23453
+Nissan,Maxima,2009,45648
+Honda,Civic,2002,98304
+Subaru,Legacy,2014,2034
+Toyota,Rav4,2013,6547
+Honda,Accord
+Honda,CR-V,2010,13904

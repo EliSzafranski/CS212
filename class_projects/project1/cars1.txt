@@ -1,0 +1,7 @@
+Toyota,Camry,2017,41001
+Subaru,Forester,2008,38913
+Sambata,curseroy glance
+Tesla,Model3,2019,00001
+Tescray,Roadster,1798,213443
+BMW,Malibut,2110,342129
+Ford,F150,2012,23453
